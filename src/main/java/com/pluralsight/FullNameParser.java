@@ -30,7 +30,7 @@ public class FullNameParser {
             System.out.println("Last name: " + nameSplit[1]);
         }
 
-
+//
 
        // System.out.println("Last name: " + nameSplit[2]);
 
